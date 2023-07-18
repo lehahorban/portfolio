@@ -10,7 +10,7 @@ export const Header: FC = () => {
   return (
     <header className="bg-gray-900 bg-opacity-70 py-4 fixed top-0 left-0 w-full z-10">
       <div className="container ">
-        <nav className="flex justify-evenly">
+        <nav className="flex justify-evenly flex-wrap items-center gap-4">
           {data.navigate.navLink.map(({ link }) => (
             <Link
               className={`font-semibold text-lg ${

@@ -12,7 +12,7 @@ export const FooterList: FC = () => {
   return (
     <>
       <div className="flex flex-col items-center">
-        <div className="flex">
+        <div className="flex flex-col items-center tablet:flex-row">
           <Link
             className="group"
             target={"_blank"}
@@ -20,7 +20,7 @@ export const FooterList: FC = () => {
             href={`mailto:${data.footer.email.url}`}
             aria-label={data.footer.email.ariaLabel}
           >
-            <div className="flex items-center justify-center">
+            <div className="flex items-center justify-center gap-3">
               <EmailIcon className="w-6 h-6" />
               <p className="text-blue-500 text-base group-hover:text-blue-700 transition-all duration-300">
                 {data.footer.email.url}
@@ -28,7 +28,7 @@ export const FooterList: FC = () => {
             </div>
           </Link>
           <Link
-            className="ml-10 group"
+            className="ml-0 tablet:ml-10 group"
             target={"_blank"}
             rel="nofollow noopener noreferrer"
             href="tel:+380975659932"
