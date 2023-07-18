@@ -1,0 +1,226 @@
+{
+  "home": {
+    "title": "Frontend Developer",
+    "name": "Horban Oleksii",
+    "image": {
+      "url": "/images/photo.png",
+      "alt": "Horban Oleksii"
+    }
+  },
+  "commercialProjects": [
+    {
+      "title": "Podorozh zhyttia",
+      "image": {
+        "url": "/images/podorozh-zhyttia.jpg",
+        "alt": "Website Podorozh zhyttia"
+      },
+      "lifeLink": "https://podorozh-zhyttia.vercel.app/",
+      "gitHubLink": "https://github.com/SoftRyzen-internship/podorozh-zhyttia",
+      "description": "[Next, Tailwind, TypeScript, Swiper, DatoCMS]"
+    },
+    {
+      "title": "Softryzen brief",
+      "image": {
+        "url": "/images/softryzen-brief.jpg",
+        "alt": "Website Softryzen brief"
+      },
+      "lifeLink": "https://softryzen-brief.vercel.app/",
+      "gitHubLink": "https://github.com/SoftRyzenStudio/softryzen-brief",
+      "description": "[Next, Tailwind, TypeScript, Swiper]"
+    },
+    {
+      "title": "Softryzen onbording",
+      "image": {
+        "url": "/images/softryzen-onbording.jpg",
+        "alt": "Softryzen onbording"
+      },
+      "lifeLink": "https://softryzen-onbording-git-dev-softryzen.vercel.app/",
+      "gitHubLink": "https://github.com/SoftRyzenStudio/softryzen-onbording",
+      "description": "[Next, Tailwind, TypeScript, Swiper]"
+    },
+    {
+      "title": "Scratch goiteens",
+      "image": {
+        "url": "/images/scratch-goiteens.jpg",
+        "alt": "Website Scratch goiteens"
+      },
+      "lifeLink": "https://goiteens.com/course/programming4kids/",
+      "gitHubLink": "https://github.com/SoftRyzen-internship/scratch-goiteens",
+      "description": "[Tailwind, SASS, JS, Gulp]"
+    }
+  ],
+  "educationalProjects": [
+    {
+      "title": "Restaurant",
+      "image": {
+        "url": "/images/restaurant.jpg",
+        "alt": "Website Restaurant"
+      },
+      "lifeLink": "https://next-restaurant-app-nu.vercel.app/",
+      "gitHubLink": "https://github.com/lehahorban/next-restaurant-app",
+      "description": "[Next, Tailwind, TypeScript, Swiper]"
+    },
+    {
+      "title": "Finance leadger",
+      "image": {
+        "url": "/images/finance.jpg",
+        "alt": "Website Finance leadger"
+      },
+      "lifeLink": "https://scintillating-druid-4516ea.netlify.app/",
+      "gitHubLink": "https://github.com/lehahorban/finance-ledger",
+      "description": "[HTML, SASS, JS, Parcel]"
+    },
+    {
+      "title": "Fullpage 3D",
+      "image": {
+        "url": "/images/fullpage-3d.jpg",
+        "alt": "Website Fullpage 3D"
+      },
+      "lifeLink": "https://lehahorban.github.io/fullpage-3d/",
+      "gitHubLink": "https://github.com/lehahorban/fullpage-3d",
+      "description": "[HTML, SASS, JS]"
+    },
+    {
+      "title": "Clock JS",
+      "image": {
+        "url": "/images/clock-js.jpg",
+        "alt": "Website Clock JS"
+      },
+      "lifeLink": "https://lehahorban.github.io/clock-js/",
+      "gitHubLink": "https://github.com/lehahorban/clock-js",
+      "description": "[HTML, CSS, JS]"
+    },
+    {
+      "title": "Trello clone",
+      "image": {
+        "url": "/images/trello.jpg",
+        "alt": "Website Trello clone"
+      },
+      "lifeLink": "https://lehahorban.github.io/trello/",
+      "gitHubLink": "https://github.com/lehahorban/trello",
+      "description": "[HTML, CSS, JS]"
+    },
+    {
+      "title": "Studio",
+      "image": {
+        "url": "/images/studio.jpg",
+        "alt": "Website Studio"
+      },
+      "lifeLink": "https://lehahorban.github.io/goit-markup-hw-08/",
+      "gitHubLink": "https://github.com/lehahorban/goit-markup-hw-08",
+      "description": "[HTML, SASS, JS] A website with a responsive layout"
+    },
+    {
+      "title": "Phonebook",
+      "image": {
+        "url": "/images/phonebook.jpg",
+        "alt": "Website Phonebook"
+      },
+      "lifeLink": "https://lehahorban.github.io/goit-react-hw-08-phonebook/",
+      "gitHubLink": "https://github.com/lehahorban/goit-react-hw-08-phonebook",
+      "description": "[HTML, CSS, JS, REST API, React, React Router, Redux]"
+    },
+    {
+      "title": "React movies",
+      "image": {
+        "url": "/images/movies.jpg",
+        "alt": "Website React movies"
+      },
+      "lifeLink": "https://lehahorban.github.io/goit-react-hw-05-movies/",
+      "gitHubLink": "https://github.com/lehahorban/goit-react-hw-05-movies",
+      "description": "[HTML, CSS, JS, REST API, React, React Router, Redux]"
+    },
+    {
+      "title": "React code editor",
+      "image": {
+        "url": "/images/code-editor.jpg",
+        "alt": "Website React code editor"
+      },
+      "lifeLink": "https://lehahorban.github.io/react-code-editor/",
+      "gitHubLink": "https://github.com/lehahorban/react-code-editor",
+      "description": "[HTML, CSS, JS, REST API, React, React Router, Redux]"
+    },
+    {
+      "title": "React image finder",
+      "image": {
+        "url": "/images/image-finder.jpg",
+        "alt": "Website React image finder"
+      },
+      "lifeLink": "https://lehahorban.github.io/goit-react-hw-04-image-finder/",
+      "gitHubLink": "https://github.com/lehahorban/goit-react-hw-04-image-finder",
+      "description": "[HTML, CSS, JS, REST API, React]"
+    },
+    {
+      "title": "Filmoteka",
+      "image": {
+        "url": "/images/filmoteka.jpg",
+        "alt": "Website Filmoteka"
+      },
+      "lifeLink": "https://lehahorban.github.io/filmoteka/",
+      "gitHubLink": "https://github.com/lehahorban/filmoteka",
+      "description": "[HTML, SASS, JS, REST API, AJAX, Parcel] Application for searching movies, and adding favorite movies to a client personal library"
+    },
+    {
+      "title": "Ice-cream",
+      "image": {
+        "url": "/images/ice-cream.jpg",
+        "alt": "Website Ice-cream"
+      },
+      "lifeLink": "https://lehahorban.github.io/ice-cream/",
+      "gitHubLink": "https://github.com/lehahorban/ice-cream",
+      "description": "[HTML, SASS, JS, Parcel] A website with a responsive layout. Role: developer"
+    }
+  ],
+  "navigate": {
+    "navLink": [
+      {
+        "link": {
+          "title": "Home",
+          "url": "/"
+        }
+      },
+      {
+        "link": {
+          "title": "Commercial",
+          "url": "/commercial"
+        }
+      },
+      {
+        "link": {
+          "title": "Educational",
+          "url": "/educational"
+        }
+      }
+    ],
+    "scrollLink": {
+      "title": "Contacts",
+      "url": "contacts"
+    }
+  },
+  "footer": {
+    "email": {
+      "url": "oleksiihorban93@gmail.com",
+      "src": "/images/email.svg",
+      "ariaLabel": "Email"
+    },
+    "github": {
+      "url": "https://github.com/lehahorban",
+      "src": "/images/github.svg",
+      "ariaLabel": "GitHub"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/oleksii-horban-162407246/",
+      "src": "/images/linkedin.svg",
+      "ariaLabel": "Linkedin"
+    },
+    "telegram": {
+      "url": "https://t.me/OleksiiHorban",
+      "src": "/images/telegram.svg",
+      "ariaLabel": "Telegram"
+    },
+    "telephone": {
+      "number": "+380 97 5659 932"
+    },
+    "text": "© 2023. Portfolio"
+  }
+}

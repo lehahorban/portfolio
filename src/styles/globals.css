@@ -17,11 +17,19 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  background: rgb(72, 84, 97);
   background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+    90deg,
+    rgba(72, 84, 97, 1) 0%,
+    rgba(203, 213, 224, 1) 100%
+  );
+}
+
+.shadow-title {
+  text-shadow: 5px 5px 5px #333333;
+}
+
+.shadow-text {
+  text-shadow: 1px 1px 2px rgb(247, 222, 222), 0 0 1em rgb(205, 205, 252),
+    0 0 0.2em rgb(132, 132, 190);
 }
