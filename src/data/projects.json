@@ -108,7 +108,7 @@
       },
       "lifeLink": "https://lehahorban.github.io/goit-markup-hw-08/",
       "gitHubLink": "https://github.com/lehahorban/goit-markup-hw-08",
-      "description": "[HTML, SASS, JS] A website with a responsive layout"
+      "description": "[HTML, SASS, JS]"
     },
     {
       "title": "Phonebook",
@@ -158,7 +158,7 @@
       },
       "lifeLink": "https://lehahorban.github.io/filmoteka/",
       "gitHubLink": "https://github.com/lehahorban/filmoteka",
-      "description": "[HTML, SASS, JS, REST API, AJAX, Parcel] Application for searching movies, and adding favorite movies to a client personal library"
+      "description": "[HTML, SASS, JS, REST API, AJAX, Parcel]"
     },
     {
       "title": "Ice-cream",
@@ -168,7 +168,7 @@
       },
       "lifeLink": "https://lehahorban.github.io/ice-cream/",
       "gitHubLink": "https://github.com/lehahorban/ice-cream",
-      "description": "[HTML, SASS, JS, Parcel] A website with a responsive layout. Role: developer"
+      "description": "[HTML, SASS, JS, Parcel]"
     }
   ],
   "navigate": {
