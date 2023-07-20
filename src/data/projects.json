@@ -25,7 +25,7 @@
         "alt": "Website Softryzen brief"
       },
       "lifeLink": "https://softryzen-brief.vercel.app/",
-      "gitHubLink": "https://github.com/SoftRyzenStudio/softryzen-brief",
+      "gitHubLink": "https://github.com/lehahorban/softryzen-brief-main",
       "description": "[Next, Tailwind, TypeScript, Swiper]"
     },
     {
@@ -35,7 +35,7 @@
         "alt": "Softryzen onbording"
       },
       "lifeLink": "https://softryzen-onbording-git-dev-softryzen.vercel.app/",
-      "gitHubLink": "https://github.com/SoftRyzenStudio/softryzen-onbording",
+      "gitHubLink": "https://github.com/lehahorban/softryzen-onbording-main",
       "description": "[Next, Tailwind, TypeScript, Swiper]"
     },
     {
@@ -45,7 +45,7 @@
         "alt": "Website Scratch goiteens"
       },
       "lifeLink": "https://scratch.goiteens.com/",
-      "gitHubLink": "https://github.com/SoftRyzen-internship/scratch-goiteens",
+      "gitHubLink": "https://github.com/lehahorban/scratch-goiteens-main",
       "description": "[Tailwind, SASS, JS, Gulp]"
     }
   ],
