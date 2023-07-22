@@ -16,7 +16,7 @@
       },
       "lifeLink": "https://podorozh-zhyttia.vercel.app/",
       "gitHubLink": "https://github.com/SoftRyzen-internship/podorozh-zhyttia",
-      "description": "[Next, Tailwind, TypeScript, Swiper, DatoCMS]"
+      "description": "[Next, Tailwind, TypeScript, GraphQL, DatoCMS]"
     },
     {
       "title": "Softryzen brief",
@@ -26,7 +26,7 @@
       },
       "lifeLink": "https://softryzen-brief.vercel.app/",
       "gitHubLink": "https://github.com/lehahorban/softryzen-brief-main",
-      "description": "[Next, Tailwind, TypeScript, Swiper]"
+      "description": "[Next, Tailwind, TypeScript]"
     },
     {
       "title": "Softryzen onbording",
@@ -36,7 +36,7 @@
       },
       "lifeLink": "https://softryzen-onbording-git-dev-softryzen.vercel.app/",
       "gitHubLink": "https://github.com/lehahorban/softryzen-onbording-main",
-      "description": "[Next, Tailwind, TypeScript, Swiper]"
+      "description": "[Next, Tailwind, TypeScript]"
     },
     {
       "title": "Scratch goiteens",
@@ -46,7 +46,7 @@
       },
       "lifeLink": "https://scratch.goiteens.com/",
       "gitHubLink": "https://github.com/lehahorban/scratch-goiteens-main",
-      "description": "[Tailwind, SASS, JS, Gulp, Nunjucks]"
+      "description": "[JS, Nunjucks, Tailwind, SASS, Gulp]"
     }
   ],
   "educationalProjects": [
@@ -58,7 +58,7 @@
       },
       "lifeLink": "https://next-restaurant-app-nu.vercel.app/",
       "gitHubLink": "https://github.com/lehahorban/next-restaurant-app",
-      "description": "[Next, Tailwind, TypeScript, Swiper]"
+      "description": "[Next, Tailwind, TypeScript]"
     },
     {
       "title": "Finance leadger",
