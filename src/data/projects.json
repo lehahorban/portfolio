@@ -51,6 +51,26 @@
   ],
   "educationalProjects": [
     {
+      "title": "Transactions",
+      "image": {
+        "url": "/images/transactions.jpg",
+        "alt": "Website Transactions"
+      },
+      "lifeLink": "https://fullstack-transaction-client-wtuo.vercel.app/",
+      "gitHubLink": "https://github.com/lehahorban/fullstack-transaction-client",
+      "description": "[Vite, Tailwind, TypeScript, Redux, Nest]"
+    },
+    {
+      "title": "Sports bar",
+      "image": {
+        "url": "/images/sports-bar.jpg",
+        "alt": "Website Sports bar"
+      },
+      "lifeLink": "https://sports-bar-ratings-netherlands.vercel.app/",
+      "gitHubLink": "https://github.com/lehahorban/sports-bar-ratings-netherlands",
+      "description": "[Next, Tailwind, Nodemailer, Cookie]"
+    },
+    {
       "title": "Restaurant",
       "image": {
         "url": "/images/restaurant.jpg",
