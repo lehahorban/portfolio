@@ -51,6 +51,16 @@
   ],
   "educationalProjects": [
     {
+      "title": "Raven Digital",
+      "image": {
+        "url": "/images/raven-digital.jpg",
+        "alt": "Website Raven Digital"
+      },
+      "lifeLink": "https://raven-digital-eight.vercel.app/",
+      "gitHubLink": "https://github.com/lehahorban/raven-digital",
+      "description": "[Vite, Tailwind, React]"
+    },
+    {
       "title": "Transactions",
       "image": {
         "url": "/images/transactions.jpg",
@@ -71,6 +81,16 @@
       "description": "[Next, Tailwind, Nodemailer, Cookie]"
     },
     {
+      "title": "Virtual Reality",
+      "image": {
+        "url": "/images/virtual-reality.jpg",
+        "alt": "Website Virtual Reality"
+      },
+      "lifeLink": "https://virtual-reality-two.vercel.app/",
+      "gitHubLink": "https://github.com/lehahorban/virtual-reality",
+      "description": "[Next, Tailwind, TypeScript]"
+    },
+    {
       "title": "Restaurant",
       "image": {
         "url": "/images/restaurant.jpg",
@@ -80,6 +100,7 @@
       "gitHubLink": "https://github.com/lehahorban/next-restaurant-app",
       "description": "[Next, Tailwind, TypeScript]"
     },
+
     {
       "title": "Finance leadger",
       "image": {
